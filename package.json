@@ -6,8 +6,8 @@
   "repository": "https://github.com/metabase/metabase",
   "license": "private",
   "engines": {
-    "node": ">=8.11.4",
-    "yarn": ">=1.12.3"
+    "node": "8.11.4",
+    "yarn": "1.12.3"
   },
   "dependencies": {
     "@snowplow/browser-tracker": "^3.1.6",
